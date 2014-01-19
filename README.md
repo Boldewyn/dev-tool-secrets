@@ -27,3 +27,5 @@ To run the site:
         jekyll serve -w
 
 * The site should load at http://localhost:4000
+
+:)
